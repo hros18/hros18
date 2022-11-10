@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm a computer scientist, who graduated from the University of Havana in 2021. Committed software engineer, eager to learn and improve my skills in order to grow projects and get efficient and clean solutions in time. Working under pressure is a known subject. ICPC contestant. I like to get along with my co-workers that's a must. Love coffee, beer, and football, not in that particular order.
 
 <!--
 **hros18/hros18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
